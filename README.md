@@ -4,7 +4,7 @@ BudgetBuddy is an AI-powered chatbot designed to be your versatile financial adv
 
 ## Project Overview
 - **Authors**: Nithish Kumar S, Chanakya R, Vijay Srinivas K, Chandravel Saravanan.
-- **Contact**: nithish130718@gmail.com, chanakya7707@gmail.com, vjsofficial006@gmail.com
+- **Contact**: nithish130718@gmail.com, chanakya7707@gmail.com, vjsofficial006@gmail.com, chandravelsaravanan@gmail.com
 
 ## Features
 
